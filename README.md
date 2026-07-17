@@ -6,4 +6,4 @@ install
 git
 fixx
 errorss
-g
+gi
