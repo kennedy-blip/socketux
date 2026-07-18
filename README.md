@@ -7,4 +7,4 @@ git
 fixx
 errorss
 git
-clear
+clearr
