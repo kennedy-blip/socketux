@@ -9,4 +9,4 @@ errorss
 git
 clearr
 cache
-pu
+pus
