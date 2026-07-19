@@ -10,3 +10,4 @@ git
 clearr
 cache
 push
+t
