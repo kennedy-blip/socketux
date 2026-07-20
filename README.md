@@ -11,4 +11,4 @@ clearr
 cache
 push
 too
-github.c
+github.co
